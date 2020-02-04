@@ -1,22 +1,11 @@
-.. NYC Charter documentation master file, created by
-   sphinx-quickstart
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
 NYC Charter
 =================================
 
-This document is updated every week from source material at `NYC Laws, Codes and Rules <https://www1.nyc.gov/nyc-resources/service/4080/nyc-charter-laws-codes-and-rules>`_. It was last updated: February 2nd, 2020. More information about this project at `MyGov.nyc/laws <http://mygov.nyc/>`_.
+As part of the `1898 consolidation of New York City <https://en.wikipedia.org/wiki/City_of_Greater_New_York>`_, the `New York State Legislature <https://en.wikipedia.org/wiki/New_York_State_Legislature>`_ enacted a charter for the consolidated city. The Charter was overhauled in 1989, after the `New York City Board of Estimate <https://en.wikipedia.org/wiki/New_York_City_Board_of_Estimate>`_ had been declared unconstitutional, to redistribute power from the Board of Estimate to the `Mayor <https://en.wikipedia.org/wiki/Mayor_of_New_York_City>`_ and `City Council <https://en.wikipedia.org/wiki/New_York_City_Council>`_.
+
 
 .. toctree::
     :maxdepth: 1
     :glob:
 
     */*
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
